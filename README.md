@@ -4,7 +4,7 @@ A free app to erase MacKeeper malware from a Mac written in AppleScript-Objectiv
 
 ### Prerequisites
 
-All you need is a mac with Mojave macOS
+All you need is a mac with macOS > Mojave 10.14
 
 ### Installing
 
