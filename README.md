@@ -18,6 +18,8 @@ Download MacKeeperKiller and move it to the Applications folder or to the folder
 
 Explain how to run the automated tests for this system
 
+[linkname](https://github.com/jonathanburgossaldivia/MacKeeperKiller/blob/master/Preview.mov)
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
