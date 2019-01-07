@@ -29,7 +29,7 @@ MacKeeperKiller contains a list of directories where MacKeeper writes its files,
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Eclipse Public License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
