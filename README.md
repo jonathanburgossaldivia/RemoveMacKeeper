@@ -34,8 +34,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
 ## Built With
 
 * [Xcode.app] - The is an integrated development environment used
