@@ -2,10 +2,6 @@
 
 A free app to erase MacKeeper malware from a Mac written in AppleScript-ObjectiveC
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 All you need is a mac with Mojave macOS
@@ -14,27 +10,13 @@ All you need is a mac with Mojave macOS
 
 Download MacKeeperKiller and move it to the Applications folder or to the folder you want
 
-## Running the tests
+## Running the app
 
-Explain how to run the automated tests for this system
+MacKeeperKiller contains a list of directories where MacKeeper writes its files, when the app is opened the directories are checked, to clean these files just choose the option "Delete" you will be asked for administrator privileges.
 
-[linkname](https://github.com/jonathanburgossaldivia/MacKeeperKiller/blob/master/Preview.mov)
+## GUI of app
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+![alt text](https://github.com/jonathanburgossaldivia/MacKeeperKiller/blob/master/app%20interface.png)
 
 ## Built With
 
