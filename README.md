@@ -16,7 +16,7 @@ MacKeeperKiller contains a list of directories where MacKeeper writes its files,
 
 ## GUI of app
 
-![alt text](https://github.com/jonathanburgossaldivia/MacKeeperKiller/blob/master/app%20interface.png)
+![alt text](https://github.com/jonathanburgossaldivia/MacKeeperKiller/blob/master/ui.png)
 
 ## Built With
 
